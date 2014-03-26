@@ -1,7 +1,5 @@
 # Hubot: hubot-explainshell
 
-[![Build Status](https://travis-ci.org/jjasghar/hubot-explainshell.png?branch=master)](https://travis-ci.org/jjasghar/hubot-explainshell)
-
 A explainshell wrapper for Hubots.
 
 See [`src/explainshell.coffee`](src/explainshell.coffee) for full documentation.
