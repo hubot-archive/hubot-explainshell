@@ -1,5 +1,5 @@
 # Description:
-#   Make hubot flip a table
+#   Make hubot link to explainshell
 #
 # Dependencies:
 #   None
