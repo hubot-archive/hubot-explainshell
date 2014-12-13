@@ -16,5 +16,5 @@
 module.exports = (robot) ->
 
   robot.respond /explainshell (.*)$/i, (msg) ->
-    shellCommand = msg.match[1].split(" ").join("+")
+    shellCommand = encodeURIComponent(msg.match[1]).split("%20").join("+")
     msg.send "http://explainshell.com/explain?cmd=#{shellCommand}"
