@@ -1,7 +1,7 @@
 {
   "name": "hubot-explainshell",
   "description": "A hubot script to wrap explainshell.com",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "JJ Asghar <jjasghar@gmail.com>",
   "license": "MIT",
 
@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git@github.com:jjasghar/hubot-explainshell.git"
+    "url": "git@github.com:hubot-scripts/hubot-explainshell.git"
   },
 
   "bugs": {
-    "url": "https://github.com/jjasghar/hubot-explainshell/issues"
+    "url": "https://github.com/hubot-scripts/hubot-explainshell/issues"
   },
 
   "dependencies": {
